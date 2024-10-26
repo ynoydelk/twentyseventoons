@@ -1,0 +1,3 @@
+FONTES
+font-family: "Kanit", serif;   G
+font-family: "Ubuntu", serif;  P
